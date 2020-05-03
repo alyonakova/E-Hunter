@@ -19,5 +19,6 @@
 
     <modules>
         <module>ehunter-product-server</module>
+        <module>ehunter-aggregator</module>
     </modules>
 </project>
